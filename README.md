@@ -1,87 +1,79 @@
 <!-- ======================================== -->
 <!--        Prerana Ramesh | Profile         -->
+<!--     Typographic Headings + Color        -->
 <!-- ======================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B2D5B,100:1E3A8A&height=220&section=header&text=Prerana%20Ramesh&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=Systems%20Engineer%20%7C%20MS%20Data%20Science%20%7C%20Seeking%20Internship&descAlignY=72&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B2D5B&height=180&section=header&text=Prerana%20Ramesh&fontSize=62&fontAlignY=42&fontColor=ffffff&desc=Systems%20Engineer%20%7C%20MS%20Data%20Science%20%7C%20Seeking%20Internship&descSize=18&descAlignY=74" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prerana-ramesh-773682201/">
-    <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0B2D5B?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:prerana.ramesh@sjsu.edu">
-    <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-0B2D5B?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/San%20Jose,%20CA-0F172A?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/San%20Jose%2C%20CA-0B2D5B?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-0B2D5B?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-0B2D5B?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2FC%2B%2B-0B2D5B?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
 
-# 🧭 <span style="color:#2563EB;">How I Think About Systems</span>
+<br/>
 
-I work at the intersection of **performance, reliability, and clarity**.  
-From debugging ADAS firmware on ARM platforms to designing data pipelines and ML systems, I focus on building software that behaves predictably under constraints.
+<h2><span style="color:#2563EB;">𝙷𝚘𝚠 𝙸 𝚃𝚑𝚒𝚗𝚔 𝙰𝚋𝚘𝚞𝚝 𝚂𝚢𝚜𝚝𝚎𝚖𝚜</span></h2>
 
-Currently pursuing an **MS in Data Science at San José State University**, expanding from embedded systems into data engineering and applied ML.
-
----
-
-# 🚀 <span style="color:#38BDF8;">Where I’m Headed Next</span>
-
-Seeking internships in:
-
-- Data Engineering (Airflow, Snowflake, dbt, ETL/ELT)
-- ML / NLP Engineering
-- Software Engineering (Python / C++ / Systems)
-
-I’m especially interested in production systems where **scale and correctness matter**.
+I work best at the intersection of **constraints** and **clarity**: performance, reliability, and measurable outcomes.  
+My experience spans **ADAS embedded firmware** (ARM, QNX/Linux, system-level debugging) and **data/ML systems** (pipelines, evaluation, and modeling).
 
 ---
 
-# 🛠 <span style="color:#60A5FA;">Selected Work</span>
+<h2><span style="color:#3B82F6;">𝚆𝚑𝚊𝚝 𝙸’𝚖 𝙾𝚙𝚎𝚗 𝚃𝚘</span></h2>
+
+**Internships** in:
+- Data Engineering (Airflow, Snowflake, dbt, ETL/ELT, SQL)
+- ML/NLP Engineering (classification, evaluation, feature engineering)
+- Software Engineering (Python/C++, systems, tooling)
+
+---
+
+<h2><span style="color:#60A5FA;">𝚂𝚎𝚕𝚎𝚌𝚝𝚎𝚍 𝚆𝚘𝚛𝚔</span></h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 <a href="https://github.com/Prerana250/Automatic-hate-speech-detection">Hate Speech Detection</a>
-
-Multilingual classifier achieving **90.7% accuracy**.  
-Ensemble approach (SVM + Random Forest) improved F1-score by 9.3%.
-
+<b><a href="https://github.com/Prerana250/Automatic-hate-speech-detection">Hate Speech Detection (NLP)</a></b><br/>
+Multilingual classifier achieving <b>90.7% accuracy</b>.  
+Ensemble approach (SVM + Random Forest) improved F1-score by 9.3%.<br/>
 <i>Python • scikit-learn • TF-IDF • NLP</i>
 
 </td>
-
 <td width="50%" valign="top">
 
-### 🍲 <a href="https://github.com/Prerana250/snowchef">Snowchef – Data Pipeline</a>
-
-Airflow-orchestrated ETL pipeline into Snowflake with dbt modeling and Streamlit analytics interface.
-
-<i>Airflow • Snowflake • dbt • Streamlit</i>
+<b><a href="https://github.com/Prerana250/snowchef">Snowchef (ETL + Analytics)</a></b><br/>
+Airflow-orchestrated pipeline ingesting API data into Snowflake, modeled with dbt, and explored via Streamlit.<br/>
+<i>Airflow • Snowflake • dbt • Streamlit • Python</i>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 🕵️ Deepfake Detection
-
-Transfer learning on 140K+ images using VGG16, XceptionNet, ResNet50.
-
-<i>TensorFlow • PyTorch • CNNs</i>
+<b>Deepfake Detection (Deep Learning)</b><br/>
+Transfer learning on 140K+ images using VGG16, XceptionNet, and ResNet50.  
+ResNet50 performed best across metrics.<br/>
+<i>TensorFlow/PyTorch • CNNs • Transfer Learning</i>
 
 </td>
-
 <td width="50%" valign="top">
 
-### 📊 <a href="https://github.com/Prerana250/agentic-cost-performance-analysis">Agentic Cost–Performance</a>
-
-Visual benchmarking of LLM agent cost vs performance trade-offs.
-
+<b><a href="https://github.com/Prerana250/agentic-cost-performance-analysis">Agentic Cost–Performance Analysis</a></b><br/>
+Benchmarked and visualized cost vs performance trade-offs for LLM agents to guide architecture decisions.<br/>
 <i>Python • Jupyter • Visualization</i>
 
 </td>
@@ -90,59 +82,81 @@ Visual benchmarking of LLM agent cost vs performance trade-offs.
 
 ---
 
-# 🧩 <span style="color:#818CF8;">Industry Experience</span>
+<h2><span style="color:#818CF8;">𝙸𝚗𝚍𝚞𝚜𝚝𝚛𝚢 𝙴𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎</span></h2>
 
 **Bosch Global Software Technologies | Software Engineer (2022–2025)**  
-- Developed ADAS firmware libraries in C/C++ on QNX/Linux  
-- System-level debugging (GDB, crash dumps, hardware traces)  
-- Improved throughput by ~12% through protocol optimization  
-- CI/CD pipelines using Jenkins + Docker  
+- ADAS camera firmware libraries in C/C++ on QNX/Linux for ARM platforms  
+- System-level debugging using GDB, crash dumps, and hardware traces  
+- Throughput improvements via protocol and SerDes optimization  
+- CI/CD pipelines with Jenkins + Docker; automated validation with Python/Shell  
+
+**Bosch Global Software Technologies | Intern (2022)**  
+- Logging/observability tooling across 20+ subsystems  
+- Automation and validation workflows for faster debugging cycles  
 
 ---
 
-# 📚 <span style="color:#A78BFA;">Foundations</span>
+<h2><span style="color:#A78BFA;">𝙵𝚘𝚞𝚗𝚍𝚊𝚝𝚒𝚘𝚗𝚜</span></h2>
 
-**MS Data Science — San José State University**  
-Machine Learning • Deep Learning • Big Data • Statistics  
+**MS Data Science — San José State University (2025–2027)**  
+ML • Data Mining • Deep Learning • Big Data Analytics • Cloud • Statistics  
 
-**BE Computer Science — Bangalore Institute of Technology**
-
----
-
-# 🧠 <span style="color:#F472B6;">Tools I Reach For</span>
-
-### Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-1E3A8A?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-2563EB?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-0F172A?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-4338CA?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
-
-### Data & Cloud
-<p>
-  <img src="https://img.shields.io/badge/Airflow-0EA5E9?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snowflake-0284C7?style=for-the-badge&logo=snowflake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dbt-DC2626?style=for-the-badge&logo=dbt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-1D4ED8?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</p>
-
-### ML & AI
-<p>
-  <img src="https://img.shields.io/badge/scikit--learn-F59E0B?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-DC2626?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-7C3AED?style=for-the-badge&logo=pytorch&logoColor=white"/>
-</p>
+**BE Computer Science — Bangalore Institute of Technology (2018–2022)**
 
 ---
 
-# ⚙️ <span style="color:#22D3EE;">Why I Build</span>
+<h2><span style="color:#22D3EE;">𝚃𝚘𝚘𝚕𝚜 𝙸 𝚁𝚎𝚊𝚌𝚑 𝙵𝚘𝚛</span></h2>
 
-I’m drawn to engineering problems where trade-offs are real.  
-Latency. Reliability. Scale. Correctness.
+### 💻 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+</p>
 
-Whether firmware or data pipelines, I aim to build systems that are quietly dependable and measurably better.
+### ☁️ Data & Cloud
+<p>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+</p>
+
+### 🤖 ML & AI
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-EC0000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-6B21A8?style=for-the-badge"/>
+</p>
+
+### 📊 Analytics
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-2C5282?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
+
+---
+
+<h2><span style="color:#38BDF8;">𝚆𝚑𝚢 𝙸 𝙱𝚞𝚒𝚕𝚍</span></h2>
+
+I’m drawn to work where trade-offs are real: latency, reliability, scale, and correctness.  
+Whether it’s embedded debugging or data/ML pipelines, I like building systems that are **quietly dependable** and **measurably better**.
 <!---# Hi, I’m Prerana 👋
 
 Graduate student specializing in **Data Engineering and Machine Learning**.  
