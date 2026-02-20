@@ -4,7 +4,7 @@
 <!-- ======================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B2D5B&height=180&section=header&text=Prerana%20Ramesh&fontSize=62&fontAlignY=42&fontColor=ffffff&desc=Systems%20Engineer%20%7C%20MS%20Data%20Science%20%7C%20Seeking%20Internship&descSize=18&descAlignY=74" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B2D5B&height=180&section=header&text=Prerana%20Ramesh&fontSize=62&fontAlignY=42&fontColor=ffffff&desc=Software%20Engineer%20%7C%20MS%20Data%20Science%20%7C%20Seeking%20Internship&descSize=18&descAlignY=74" />
 </p>
 
 <p align="center">
