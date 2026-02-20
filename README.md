@@ -1,9 +1,9 @@
-<!-- ========================= -->
-<!--  Prerana Ramesh Profile  -->
-<!-- ========================= -->
+<!-- ======================================== -->
+<!--        Prerana Ramesh | Profile         -->
+<!-- ======================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B2D5B&height=220&section=header&text=Prerana%20Ramesh&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%7C%20MS%20Data%20Science%20%7C%20Seeking%20Internship&descAlignY=72&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B2D5B&height=220&section=header&text=Prerana%20Ramesh&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Systems%20Engineer%20%7C%20MS%20Data%20Science%20%7C%20Building%20Reliable%20Software&descAlignY=72&descSize=18" />
 </p>
 
 <p align="center">
@@ -18,28 +18,29 @@
 
 ---
 
-## 👋 About Me
+# 🧭 How I Think About Systems
 
-I’m a Software Engineer with experience in **Embedded Systems (ADAS)** and currently pursuing an **MS in Data Science at San José State University**.
+I approach engineering as a balance between **performance, clarity, and reliability**.
 
-I enjoy building systems end-to-end — from low-level firmware debugging on ARM platforms to scalable data pipelines and machine learning models with measurable performance.
+From debugging low-level ADAS firmware on ARM platforms to building ML pipelines and evaluating NLP models, I care about how systems behave under constraints — latency, scale, data integrity, and correctness.
 
-I focus on:
-- Writing clean, reliable production code  
-- Building structured data workflows  
-- Evaluating ML systems beyond surface-level accuracy  
+I’m currently pursuing an **MS in Data Science at San José State University**, expanding from embedded systems into data engineering and applied ML.
 
 ---
 
-## 🎯 Seeking Internship Roles
+# 🚀 Where I’m Headed Next
+
+I’m seeking internship opportunities in:
 
 - Data Engineering (Airflow, Snowflake, dbt, ETL/ELT, SQL)
 - Machine Learning / NLP Engineering
 - Software Engineering (Python / C++ / Systems)
 
+I’m particularly interested in roles where systems must be **measurable, scalable, and production-ready**.
+
 ---
 
-# 🚀 Stuff I've Built
+# 🛠 Systems I’ve Designed & Shipped
 
 <table>
 <tr>
@@ -47,8 +48,8 @@ I focus on:
 
 ### 🧠 <a href="https://github.com/Prerana250/Automatic-hate-speech-detection">Hate Speech Detection (NLP)</a>
 
-Multilingual hate-speech detection system achieving **90.7% accuracy**.  
-Improved robustness using **SVM + Random Forest ensemble**, boosting F1-score by 9.3%.
+Multilingual hate-speech detection achieving **90.7% accuracy**.  
+Improved robustness using an **SVM + Random Forest ensemble**, increasing F1-score by 9.3%.
 
 **Stack:** Python, scikit-learn, TF-IDF, NLP, Model Evaluation  
 
@@ -56,10 +57,10 @@ Improved robustness using **SVM + Random Forest ensemble**, boosting F1-score by
 
 <td width="50%" valign="top">
 
-### 🍲 <a href="https://github.com/Prerana250/snowchef">Snowchef – Smart Data Pipeline</a>
+### 🍲 <a href="https://github.com/Prerana250/snowchef">Snowchef – Data Pipeline Architecture</a>
 
 Airflow-orchestrated ETL pipeline ingesting API data into **Snowflake**.  
-Built **dbt models** (staging → marts → tests) and a **Streamlit dashboard** for analytics.
+Designed **dbt staging and marts models**, integrated testing, and built a Streamlit analytics interface.
 
 **Stack:** Airflow, Snowflake, dbt, Python, Streamlit  
 
@@ -69,21 +70,22 @@ Built **dbt models** (staging → marts → tests) and a **Streamlit dashboard**
 <tr>
 <td width="50%" valign="top">
 
-### 📊 <a href="https://github.com/Prerana250/agentic-cost-performance-analysis">Agentic Cost-Performance Analysis</a>
+### 🕵️ Deepfake Detection (Deep Learning)
 
-Analyzed cost vs performance trade-offs of LLM agents to guide architecture decisions through data-driven visualization.
+Deepfake detection system trained on **140K+ images**.  
+Fine-tuned **VGG16, XceptionNet, and ResNet50** using transfer learning, with ResNet50 achieving best performance.
 
-**Stack:** Python, Jupyter, Data Analysis, Visualization  
+**Stack:** TensorFlow / PyTorch, CNNs, Transfer Learning  
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📈 <a href="https://github.com/Prerana250/Airflow-ETL-Pipeline-for-Stock-Data">Airflow ETL Pipeline for Stock Data</a>
+### 📊 <a href="https://github.com/Prerana250/agentic-cost-performance-analysis">Agentic Cost–Performance Analysis</a>
 
-Automated stock data ingestion and transformation pipeline using Airflow with scheduled workflows.
+Analyzed trade-offs between LLM agent cost and performance through structured benchmarking and visualization.
 
-**Stack:** Airflow, Python, ETL  
+**Stack:** Python, Jupyter, Data Analysis, Visualization  
 
 </td>
 </tr>
@@ -91,75 +93,79 @@ Automated stock data ingestion and transformation pipeline using Airflow with sc
 
 ---
 
-# 🧑‍💼 Where I’ve Worked
+# 🧩 Industry Experience
 
 ## Bosch Global Software Technologies  
-**Software Engineer | Aug 2022 – Jul 2025**
+**Software Engineer | 2022 – 2025**
 
-- Developed ADAS camera firmware libraries in **Embedded C/C++** on **QNX/Linux** for ARM-based Snapdragon platforms  
-- Performed system-level debugging using **GDB, crash dumps, and hardware traces**, resolving 20%+ critical issues  
-- Improved throughput by ~12% through protocol and SerDes optimization  
-- Built CI/CD pipelines using **Jenkins + Docker**  
-- Automated validation workflows with Python and Shell scripting  
+- Developed ADAS camera firmware libraries in **Embedded C/C++** on QNX/Linux  
+- Debugged system-level failures using **GDB, crash dumps, hardware traces**  
+- Improved throughput by ~12% via protocol and SerDes optimization  
+- Built CI/CD pipelines with **Jenkins + Docker**  
+- Automated validation workflows using Python and Shell  
 
-### Intern | Feb 2022 – May 2022
-- Enhanced observability across 20+ subsystems using structured logging infrastructure  
-- Improved debugging efficiency through DLT-based tooling  
-- Automated validation and testing pipelines  
+### Software Intern
 
----
-
-# 🎓 Education
-
-**MS in Data Science**  
-San José State University (2025 – 2027)  
-
-Coursework:  
-Machine Learning, Data Mining, Deep Learning, Big Data Analytics, Statistical Methods, Cloud Computing  
-
-**BE in Computer Science**  
-Bangalore Institute of Technology  
+- Improved observability across 20+ subsystems  
+- Integrated structured logging infrastructure  
+- Automated validation pipelines  
 
 ---
 
-# 🧰 Tech Stack
+# 📚 Foundations & Formal Training
 
-### Languages
+**MS in Data Science** — San José State University  
+Coursework: Machine Learning, Data Mining, Deep Learning, Big Data Analytics, Cloud Computing, Statistical Methods  
+
+**BE in Computer Science** — Bangalore Institute of Technology  
+
+---
+
+# 🧠 Tools I Reach For
+
+## 💻 Core Languages
 <p>
   <img src="https://img.shields.io/badge/Python-0B2D5B?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-0B2D5B?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-0B2D5B?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-0B2D5B?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-0B2D5B?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell-0B2D5B?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
-### Data Engineering & Cloud
+## ⚙️ Data & Cloud Systems
 <p>
   <img src="https://img.shields.io/badge/Airflow-0B2D5B?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Snowflake-0B2D5B?style=for-the-badge&logo=snowflake&logoColor=white"/>
   <img src="https://img.shields.io/badge/dbt-0B2D5B?style=for-the-badge&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-0B2D5B?style=for-the-badge&logo=apachespark&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-0B2D5B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0B2D5B?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-0B2D5B?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-0B2D5B?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-0B2D5B?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-0B2D5B?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
-### ML / AI
+## 🧠 ML & AI
 <p>
   <img src="https://img.shields.io/badge/scikit--learn-0B2D5B?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-0B2D5B?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-0B2D5B?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-0B2D5B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-0B2D5B?style=for-the-badge"/>
 </p>
 
 ---
 
-# 💡 What Drives Me
+# ⚙️ Why I Build
 
-I’m motivated by building systems that are reliable, measurable, and production-ready.
+I’m motivated by engineering problems where constraints matter.
 
-From debugging embedded firmware in latency-constrained environments to designing data pipelines and training ML models, I care about correctness, performance, and thoughtful trade-offs.
+I enjoy systems that must perform predictably — whether it's firmware running on embedded hardware, a data pipeline orchestrating scheduled jobs, or a model evaluated beyond simple accuracy.
 
-Good engineering is quiet and dependable — and that’s the standard I aim to build toward.
+Good engineering is reliable, measurable, and thoughtfully designed.
+
+That’s the standard I work toward.
 <!---# Hi, I’m Prerana 👋
 
 Graduate student specializing in **Data Engineering and Machine Learning**.  
