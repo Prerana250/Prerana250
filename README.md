@@ -64,7 +64,7 @@ Airflow-orchestrated pipeline ingesting API data into Snowflake, modeled with db
 <tr>
 <td width="50%" valign="top">
 
-<b>Deepfake Detection (Deep Learning)</b><br/>
+<b><a href="https://github.com/Prerana250/deepfake-detection-transfer-learning">Deepfake Detection (Deep Learning)</b><br/>
 Transfer learning on 140K+ images using VGG16, XceptionNet, and ResNet50.  
 ResNet50 performed best across metrics.<br/>
 <i>TensorFlow/PyTorch • CNNs • Transfer Learning</i>
