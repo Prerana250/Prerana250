@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prerana-ramesh">
+  <a href="https://www.linkedin.com/in/prerana-ramesh-773682201/">
     <img src="https://img.shields.io/badge/LinkedIn-0B2D5B?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:prerana.ramesh@sjsu.edu">
