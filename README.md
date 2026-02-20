@@ -45,7 +45,8 @@ I focus on:
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Hate Speech Detection (NLP)
+### 🧠 <a href="https://github.com/Prerana250/Automatic-hate-speech-detection">Hate Speech Detection (NLP)</a>
+
 Multilingual hate-speech detection system achieving **90.7% accuracy**.  
 Improved robustness using **SVM + Random Forest ensemble**, boosting F1-score by 9.3%.
 
@@ -55,7 +56,8 @@ Improved robustness using **SVM + Random Forest ensemble**, boosting F1-score by
 
 <td width="50%" valign="top">
 
-### 🍲 Snowchef – Smart Data Pipeline
+### 🍲 <a href="https://github.com/Prerana250/snowchef">Snowchef – Smart Data Pipeline</a>
+
 Airflow-orchestrated ETL pipeline ingesting API data into **Snowflake**.  
 Built **dbt models** (staging → marts → tests) and a **Streamlit dashboard** for analytics.
 
@@ -67,20 +69,21 @@ Built **dbt models** (staging → marts → tests) and a **Streamlit dashboard**
 <tr>
 <td width="50%" valign="top">
 
-### 🕵️ Deepfake Detection (Deep Learning)
-Deepfake detection system using transfer learning on **140K+ images**.  
-Fine-tuned **VGG16, XceptionNet, ResNet50**, with ResNet50 performing best.
+### 📊 <a href="https://github.com/Prerana250/agentic-cost-performance-analysis">Agentic Cost-Performance Analysis</a>
 
-**Stack:** TensorFlow / PyTorch, CNNs, Transfer Learning  
+Analyzed cost vs performance trade-offs of LLM agents to guide architecture decisions through data-driven visualization.
+
+**Stack:** Python, Jupyter, Data Analysis, Visualization  
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📊 Agentic Cost-Performance Analysis
-Analyzed cost vs performance trade-offs of LLM agents to guide architecture decisions through data-driven visualization.
+### 📈 <a href="https://github.com/Prerana250/Airflow-ETL-Pipeline-for-Stock-Data">Airflow ETL Pipeline for Stock Data</a>
 
-**Stack:** Python, Jupyter, Data Analysis, Visualization  
+Automated stock data ingestion and transformation pipeline using Airflow with scheduled workflows.
+
+**Stack:** Airflow, Python, ETL  
 
 </td>
 </tr>
