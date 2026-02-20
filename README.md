@@ -12,7 +12,7 @@ I build **Airflow pipelines**, **Snowflake/dbt workflows**, and **ML models** wi
 Python • Airflow • Snowflake • dbt • SQL • Pandas • Scikit-learn
 
 ## 📫 Connect
-LinkedIn: <[add link](https://www.linkedin.com/in/prerana-ramesh-773682201/)>
+LinkedIn: https://www.linkedin.com/in/prerana-ramesh-773682201/
 
 <!--
 **Prerana250/Prerana250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
