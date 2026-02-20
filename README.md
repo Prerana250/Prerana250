@@ -90,10 +90,6 @@ Benchmarked and visualized cost vs performance trade-offs for LLM agents to guid
 - Throughput improvements via protocol and SerDes optimization  
 - CI/CD pipelines with Jenkins + Docker; automated validation with Python/Shell  
 
-**Bosch Global Software Technologies | Intern (2022)**  
-- Logging/observability tooling across 20+ subsystems  
-- Automation and validation workflows for faster debugging cycles  
-
 ---
 
 <h2><span style="color:#A78BFA;">𝙵𝚘𝚞𝚗𝚍𝚊𝚝𝚒𝚘𝚗𝚜</span></h2>
