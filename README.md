@@ -82,16 +82,6 @@ Benchmarked and visualized cost vs performance trade-offs for LLM agents to guid
 
 ---
 
-<h2><span style="color:#818CF8;">𝙸𝚗𝚍𝚞𝚜𝚝𝚛𝚢 𝙴𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎</span></h2>
-
-**Bosch Global Software Technologies | Software Engineer (2022–2025)**  
-- ADAS camera firmware libraries in C/C++ on QNX/Linux for ARM platforms  
-- System-level debugging using GDB, crash dumps, and hardware traces  
-- Throughput improvements via protocol and SerDes optimization  
-- CI/CD pipelines with Jenkins + Docker; automated validation with Python/Shell  
-
----
-
 <h2><span style="color:#A78BFA;">𝙵𝚘𝚞𝚗𝚍𝚊𝚝𝚒𝚘𝚗𝚜</span></h2>
 
 **MS Data Science — San José State University (2025–2027)**  
