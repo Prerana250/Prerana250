@@ -27,8 +27,7 @@
 
 <h2><span style="color:#2563EB;">𝙷𝚘𝚠 𝙸 𝚃𝚑𝚒𝚗𝚔 𝙰𝚋𝚘𝚞𝚝 𝚂𝚢𝚜𝚝𝚎𝚖𝚜</span></h2>
 
-I work best at the intersection of **constraints** and **clarity**: performance, reliability, and measurable outcomes.  
-My experience spans **ADAS embedded firmware** (ARM, QNX/Linux, system-level debugging) and **data/ML systems** (pipelines, evaluation, and modeling).
+I work best at the intersection of hardware-aware performance and AI reliability: optimizing for latency, throughput, and deterministic outcomes. My experience spans ARM-based system performance analysis and architecting agentic RAG pipelines  that bridge low-level efficiency with enterprise-scale intelligence.
 
 ---
 
